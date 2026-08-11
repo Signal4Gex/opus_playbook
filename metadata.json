@@ -1,0 +1,6 @@
+{
+  "name": "Opus Five Power Playbook",
+  "description": "Interactive power-user workbench, spec architect, token calculator, and master guide for Cloud Code Opus 5, subagents, and context engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
